@@ -4,9 +4,9 @@
   "abstract": "This is a local Cell Browser installation, without dataset hierarchies.\n            Please select a dataset from the list on the left.<p>\n            <p>\n            See the documentation on <a target=_blank href=\"https://cellbrowser.readthedocs.io/collections.html\">\n            dataset hierarchies</a>.\n\n        ",
   "datasets": [
     {
-      "shortLabel": "Public_mouse_brain_sample",
-      "name": "Public_mouse_brain_sample",
-      "md5": "888b44a876",
+      "shortLabel": "Public_data_mouse_brain",
+      "name": "Public_data_mouse_brain",
+      "md5": "9f2781250f",
       "hasFiles": [
         "datasetDesc"
       ],
