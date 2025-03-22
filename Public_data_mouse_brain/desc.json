@@ -13,5 +13,5 @@
     "spatial.coords.tsv.gz",
     "pca.coords.tsv.gz"
   ],
-  "matrixFile": "/Users/vzh0939/cellBrowser-master/Mouse-lungs-celltyped-public-dataset/Public_data_mouse_brain/exprMatrix.tsv.gz"
+  "matrixFile": "/Users/vzh0939/cellBrowser-master/Mouse-brain-celltyped-public/Public_data_mouse_brain/exprMatrix.tsv.gz"
 }

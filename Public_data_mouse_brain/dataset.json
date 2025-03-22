@@ -1,17 +1,5 @@
 {
   "fileVersions": {
-    "inMatrix": {
-      "fname": "/Users/vzh0939/Public_data_mouse_brain/exprMatrix.tsv.gz",
-      "md5": "87a75f4084",
-      "size": 47092975,
-      "mtime": "2025-03-20 13:04:26"
-    },
-    "outMatrix": {
-      "fname": "/Users/vzh0939/cellBrowser-master/Mouse-lungs-celltyped-public-dataset/Public_data_mouse_brain/exprMatrix.tsv.gz",
-      "md5": "87a75f4084",
-      "size": 47092975,
-      "mtime": "2025-03-20 13:07:34"
-    },
     "inMeta": {
       "fname": "/Users/vzh0939/Public_data_mouse_brain/meta.tsv",
       "md5": "dfa0f41e77",
@@ -19,14 +7,26 @@
       "mtime": "2025-03-20 13:04:36"
     },
     "outMeta": {
-      "fname": "/Users/vzh0939/cellBrowser-master/Mouse-lungs-celltyped-public-dataset/Public_data_mouse_brain/meta.tsv",
+      "fname": "/Users/vzh0939/cellBrowser-master/Mouse-brain-celltyped-public/Public_data_mouse_brain/meta.tsv",
       "md5": "a7c9ecd08a",
       "size": 17354200,
-      "mtime": "2025-03-20 13:08:30"
+      "mtime": "2025-03-22 04:00:24"
+    },
+    "inMatrix": {
+      "fname": "/Users/vzh0939/Public_data_mouse_brain/exprMatrix.tsv.gz",
+      "md5": "87a75f4084",
+      "size": 47092975,
+      "mtime": "2025-03-20 13:04:26"
+    },
+    "outMatrix": {
+      "fname": "/Users/vzh0939/cellBrowser-master/Mouse-brain-celltyped-public/Public_data_mouse_brain/exprMatrix.tsv.gz",
+      "md5": "87a75f4084",
+      "size": 47092975,
+      "mtime": "2025-03-22 04:00:29"
     },
     "desc": {
       "fname": "/Users/vzh0939/Public_data_mouse_brain/desc.conf",
-      "md5": "2b919c38d0",
+      "md5": "dbe9931bbc",
       "size": 2665,
       "mtime": "2025-03-20 13:04:36"
     },
@@ -37,7 +37,6 @@
       "mtime": "2025-03-20 13:08:24"
     }
   },
-  "matrixArrType": "Float32",
   "sampleCount": 162033,
   "matrixWasFiltered": false,
   "metaFields": [
@@ -47,7 +46,7 @@
       "type": "uniqueString",
       "maxSize": 6,
       "diffValCount": 162033,
-      "md5": "daf8780856"
+      "md5": "2b27689838"
     },
     {
       "name": "cell_id",
@@ -55,7 +54,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 162033,
-      "md5": "f5fe655d2b"
+      "md5": "3fdaac17f7"
     },
     {
       "name": "x_centroid",
@@ -63,7 +62,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 161380,
-      "md5": "605bad93a3"
+      "md5": "026dbfeea0"
     },
     {
       "name": "y_centroid",
@@ -71,7 +70,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 161294,
-      "md5": "b8bce51d85"
+      "md5": "2dc79fec99"
     },
     {
       "name": "transcript_counts",
@@ -79,7 +78,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 1315,
-      "md5": "51c4b4fe30"
+      "md5": "c7f47150ce"
     },
     {
       "name": "control_probe_counts",
@@ -87,7 +86,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 8,
-      "md5": "51f2f18742"
+      "md5": "832aa9192e"
     },
     {
       "name": "control_codeword_counts",
@@ -95,7 +94,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 4,
-      "md5": "27e4d94d74"
+      "md5": "9ca8db7bfa"
     },
     {
       "name": "total_counts",
@@ -103,7 +102,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 1322,
-      "md5": "925f13cc62"
+      "md5": "4db491e6ec"
     },
     {
       "name": "cell_area",
@@ -111,7 +110,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 18769,
-      "md5": "f4a0bbc3e5"
+      "md5": "a54c2da150"
     },
     {
       "name": "nucleus_area",
@@ -119,7 +118,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 3201,
-      "md5": "ec2f0b8e5b"
+      "md5": "7273247ffe"
     },
     {
       "name": "UMICount",
@@ -127,7 +126,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 1315,
-      "md5": "911150c855"
+      "md5": "b170287183"
     },
     {
       "name": "leiden",
@@ -135,7 +134,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 47,
-      "md5": "8f51435c9c"
+      "md5": "7f632545b1"
     },
     {
       "name": "celltype",
@@ -197,9 +196,10 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 13,
-      "md5": "cf5e5780e7"
+      "md5": "99cbeec929"
     }
   ],
+  "matrixArrType": "Float32",
   "labelField": "celltype",
   "coords": [
     {
@@ -411,7 +411,7 @@
   "name": "Public_data_mouse_brain",
   "shortLabel": "Public_data_mouse_brain",
   "defColorField": "celltype",
-  "firstBuildTime": "2025-03-20T08:08:37.447139",
-  "lastBuildTime": "2025-03-20T08:08:37.447165",
-  "md5": "9f2781250f"
+  "firstBuildTime": "2025-03-21T23:00:38.910375",
+  "lastBuildTime": "2025-03-21T23:00:38.910396",
+  "md5": "1a6a5ead3b"
 }
