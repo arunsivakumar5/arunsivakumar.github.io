@@ -1,0 +1,84 @@
+{
+  "labels": [
+    [
+      35237.62151180161,
+      34219.628443382135,
+      "medium spiny neuron"
+    ],
+    [
+      34530.24818795301,
+      28694.700574856284,
+      "endothelial cell"
+    ],
+    [
+      26592.788766368023,
+      36043.56202618883,
+      "Neurons"
+    ],
+    [
+      28744.302521008405,
+      39513.21008403361,
+      "ependymal cell"
+    ],
+    [
+      44121.38120300752,
+      38524.73383458646,
+      "ependymal cells"
+    ],
+    [
+      47395.322108345536,
+      30969.403611517813,
+      "oligodendrocyte precursor cell"
+    ],
+    [
+      33238.622872702515,
+      32121.41592920354,
+      "neurons"
+    ],
+    [
+      31611.4203009828,
+      25558.965601965603,
+      "oligodendrocyte"
+    ],
+    [
+      33600.8360232408,
+      27973.688185926403,
+      "microglial cell"
+    ],
+    [
+      34418.64850042845,
+      25242.870779777208,
+      "astrocyte"
+    ],
+    [
+      36574.25,
+      34594.480769230766,
+      "microglia"
+    ],
+    [
+      28128.183229813665,
+      25658.16459627329,
+      "Bergmann glial cell"
+    ],
+    [
+      45302.10859375,
+      19901.40546875,
+      "brain pericyte"
+    ]
+  ],
+  "order": [
+    "medium spiny neuron",
+    "microglia",
+    "neurons",
+    "endothelial cell",
+    "microglial cell",
+    "astrocyte",
+    "oligodendrocyte",
+    "Bergmann glial cell",
+    "Neurons",
+    "ependymal cell",
+    "ependymal cells",
+    "oligodendrocyte precursor cell",
+    "brain pericyte"
+  ]
+}
